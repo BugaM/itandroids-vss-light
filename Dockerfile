@@ -95,7 +95,7 @@ RUN ls -la /configs/*
 COPY binaries/ /binaries/
 RUN ls -la /binaries/*
 
-WORKDIR /resources/flycapture/
+WORKDIR /externals/flycapture/
 
 RUN sudo dpkg -i libflycapture-2* \
     && sudo dpkg -i libflycapturegui-2* \

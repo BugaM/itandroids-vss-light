@@ -1,7 +1,0 @@
-Invert: 0
-UniformColor: blue
-Robot: 0
-Strategy: 0
-QuantWidgets: 1
-Widget: GameWidget
-Robot: 0
